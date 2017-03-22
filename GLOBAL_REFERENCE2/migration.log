@@ -373,3 +373,6 @@
  * Task [RemoveProjectLibsFolder] : Nothing to do
  * Task [RemoveConfigMavenRepository] : Applied successfully
  * Task [ChangeMappingFileMigrationTask] : Applied successfully
+ * Task [Fix a problem of project resources linked to items] : Applied successfully
+ * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
+ ---=== End of migration ===---

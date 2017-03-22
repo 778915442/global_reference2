@@ -360,7 +360,6 @@
     <migrationTask xmi:id="_bybDDw8KEeeY1aQc0k-e3Q" id="org.talend.repository.model.migration.ChangeMSSQLDBVersionMigrationTask" breaks="6.2.0" version="6.3.0" status="noimpact"/>
     <migrationTask xmi:id="_bybDEA8KEeeY1aQc0k-e3Q" id="org.talend.datacleansing.core.migration.UpdateTMatchGroupOutPutSchemaTask" breaks="6.3.1" version="6.3.1" status="noimpact"/>
     <migrationTask xmi:id="_bybDEQ8KEeeY1aQc0k-e3Q" id="org.talend.repository.model.migration.ChangeTypeMappingForRedshift" breaks="6.3.0" version="6.3.1" status="noimpact"/>
-    <migrationTask xmi:id="_bybDEg8KEeeY1aQc0k-e3Q" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_CgweQA8MEee3xrSlAp0E1Q" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_CgweQQ8MEee3xrSlAp0E1Q" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_CgweQg8MEee3xrSlAp0E1Q" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
@@ -378,6 +377,8 @@
     <migrationTask xmi:id="_CgweTg8MEee3xrSlAp0E1Q" id="org.talend.repository.model.migration.RemoveProjectLibsFolder" breaks="6.0.0" version="6.0.1" status="noimpact"/>
     <migrationTask xmi:id="_CgweTw8MEee3xrSlAp0E1Q" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
     <migrationTask xmi:id="_CgweUA8MEee3xrSlAp0E1Q" id="org.talend.repository.model.migration.ChangeMappingFileMigrationTask" breaks="6.2.1" version="6.2.2" status="ok"/>
+    <migrationTask xmi:id="_CwGh0A8MEee3xrSlAp0E1Q" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_CwGh0Q8MEee3xrSlAp0E1Q" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_aBOw4g8KEeeY1aQc0k-e3Q" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_BHGjwg8MEee3xrSlAp0E1Q" login="gosh_01@company.com" firstName="gosh01" lastName="surname01" type="DQ" additionnalData="{}"/>
